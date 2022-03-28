@@ -15,4 +15,4 @@ Having a website helps us to show our skills. Maintain connections with new peop
 * Reach us out:
   Checkout all the fun stuff at: [[https://apacdirectory.hackclub.com/club/brightqcbyteclub][Apac Directory]] \\
   Our projects at: [[https://github.com/bright-qbyte-club/][GitHub]] \\
-  Our location at: [[https://cloud-l2g2k87yv-hack-club-bot.vercel.app/0image.png][Hack Club Map]] \\
+  Our location at: https://cloud-l2g2k87yv-hack-club-bot.vercel.app/0image.png \\
