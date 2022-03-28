@@ -1,0 +1,18 @@
+#+TITLE: This is a website of the most awesome CS club in Noida, India!
+#+AUTHOR: Bright-Qbyters
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://gongzhitaao.org/orgcss/org.css" />
+
+https://cloud-7p2d79b77-hack-club-bot.vercel.app/0image.png
+
+* Introduction
+This is our club's website. And here's the list of the personal websites of all the members:
++ Suryaansh: [[https://suryaansh.dino.icu][suryaansh.dino.icu]] \\
++ Aradhana: [[https://aradhz.github.io][aradhz.github.io]] \\
++ Avni: [[https://avnikashyap08.github.io][avnikashyap08.github.io]] \\
+
+Having a website helps us to show our skills. Maintain connections with new people and most importantly, motivate other people to do the same!
+
+* Reach us out:
+  Checkout all the fun stuff at: [[https://apacdirectory.hackclub.com/club/brightqcbyteclub][Apac Directory]] \\
+  Our projects at: [[https://github.com/bright-qbyte-club/][GitHub]] \\
+  Our location at: [[https://cloud-l2g2k87yv-hack-club-bot.vercel.app/0image.png][Hack Club Map]] \\
